@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<theme author="Henry Case" name="MarioBrothers" type="sound">
+  <description>Fixed adium2pidgin converter theme found somewhere...</description>
+  <event file="nsmb_pipe.mp3.wav" name="logout"/>
+  <event file="nsmb_mini-mario_jump.mp3.wav" name="send_im"/>
+  <event file="nsmb_pause.mp3.wav" name="first_im_recv"/>
+  <event file="nsmb_coin.mp3.wav" name="im_recv"/>
+  <event file="nsmb_power-up.mp3.wav" name="login"/>
+</theme>
